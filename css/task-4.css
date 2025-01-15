@@ -1,0 +1,15 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.login-form label {
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.04em;
+}
+
+.login-form input {
+  margin-top: 8px;
+}
